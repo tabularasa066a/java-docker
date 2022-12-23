@@ -7,4 +7,4 @@ services:
       - 8070:8080
     tty: true
     volumes:
-      - ./src:/usr/src:cached
+      - ./repos:/usr/src:cached

@@ -1,0 +1,3 @@
+[submodule "repos/java_basic"]
+	path = repos/java_basic
+	url = git@github.com:tabularasa066a/java_basic.git
